@@ -66,12 +66,12 @@
 #define CONFIG_LCD_TYPE_ST7262
 
 #define DISPLAY_PIN_MISO      -1 // required if use CONFIG_LCD_TYPE_AUTO
-#define DISPLAY_PIN_MOSI       6
-#define DISPLAY_PIN_SCK        7
+#define DISPLAY_PIN_MOSI       -1 //6
+#define DISPLAY_PIN_SCK        -1 //7
 
-#define DISPLAY_PIN_CS         5
-#define DISPLAY_PIN_DC         4
-#define DISPLAY_PIN_RST       48
+#define DISPLAY_PIN_CS         -1 //5
+#define DISPLAY_PIN_DC         -1 //4
+#define DISPLAY_PIN_RST       -1 //48
 
 #define DISPLAY_PIN_BL        2 //
 #define DISPLAY_BL_ON          1  // GPIO state to enable back light
