@@ -19,7 +19,7 @@ Following boards are supported:
 - [Morpheans MorphESP-240](https://github.com/ccadic/ESP32-S2-DevBoardTFT) or  [MorphESP CrowdSupply](https://www.crowdsupply.com/morpheans/morphesp-240)
 - [Olimex ESP32S2 DevKit Lipo vB1 (WROVER and WROOM)](https://www.olimex.com/Products/IoT/ESP32-S2/ESP32-S2-DevKit-Lipo/open-source-hardware)
 - [Unexpected Maker FeatherS2](https://feathers2.io)
-- [Sunton ESP32S3 4.3 inch 800*400 IPS with Touch] (https://www.makerfabs.com/sunton-esp32-s3-4-3-inch-ips-with-touch.html)
+- [Sunton ESP32S3 4.3 inch 800*400 IPS with Touch]([https://feathers2.io](https://www.makerfabs.com/sunton-esp32-s3-4-3-inch-ips-with-touch.html))
 
 ## Build & Flash
 
