@@ -106,5 +106,4 @@
 #define UF2_VOLUME_LABEL         "SUNTONBOOT"
 #define UF2_INDEX_URL            "https://www.makerfabs.com/sunton-esp32-s3-4-3-inch-ips-with-touch.html"
 
-#endif
 
