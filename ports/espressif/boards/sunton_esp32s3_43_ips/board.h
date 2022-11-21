@@ -64,34 +64,34 @@
 // TFT
 //--------------------------------------------------------------------+
 
-#define CONFIG_LCD_TYPE_ILI9341
+//#define CONFIG_LCD_TYPE_ILI9341
 //#define CONFIG_LCD_TYPE_ST7262
 
-#define DISPLAY_PIN_MISO      -1 // required if use CONFIG_LCD_TYPE_AUTO
-#define DISPLAY_PIN_MOSI       -1 //6
-#define DISPLAY_PIN_SCK        -1 //7
+//#define DISPLAY_PIN_MISO      -1 // required if use CONFIG_LCD_TYPE_AUTO
+//#define DISPLAY_PIN_MOSI       -1 //6
+//#define DISPLAY_PIN_SCK        -1 //7
 
-#define DISPLAY_PIN_CS         -1 //5
-#define DISPLAY_PIN_DC         -1 //4
-#define DISPLAY_PIN_RST       -1 //48
+//#define DISPLAY_PIN_CS         -1 //5
+//#define DISPLAY_PIN_DC         -1 //4
+//#define DISPLAY_PIN_RST       -1 //48
 
-#define DISPLAY_PIN_BL        2 //
-#define DISPLAY_BL_ON          1  // GPIO state to enable back light
+//#define DISPLAY_PIN_BL        2 //
+//#define DISPLAY_BL_ON          1  // GPIO state to enable back light
 
 // #define DISPLAY_PIN_POWER     21
 // #define DISPLAY_POWER_ON       1  // GPIO state to enable TFT
 
-#define DISPLAY_WIDTH         800
-#define DISPLAY_HEIGHT        480
+//#define DISPLAY_WIDTH         800
+//#define DISPLAY_HEIGHT        480
 
-#define DISPLAY_COL_OFFSET      0
-#define DISPLAY_ROW_OFFSET      0
+//#define DISPLAY_COL_OFFSET      0
+//#define DISPLAY_ROW_OFFSET      0
 
 // Memory Data Access Control & // Vertical Scroll Start Address
-#define DISPLAY_MADCTL        (TFT_MADCTL_BGR | TFT_MADCTL_MY | TFT_MADCTL_MX | TFT_MADCTL_MV)
-#define DISPLAY_VSCSAD        0
+//#define DISPLAY_MADCTL        (TFT_MADCTL_BGR | TFT_MADCTL_MY | TFT_MADCTL_MX | TFT_MADCTL_MV)
+//#define DISPLAY_VSCSAD        0
 
-#define DISPLAY_TITLE         "Sunton ESP32S3 4.3 inch"
+//#define DISPLAY_TITLE         "Sunton ESP32S3 4.3 inch"
 
 //--------------------------------------------------------------------+
 // USB UF2
