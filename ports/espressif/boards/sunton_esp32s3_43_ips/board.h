@@ -61,7 +61,8 @@
 // TFT
 //--------------------------------------------------------------------+
 
-#define CONFIG_LCD_TYPE_ST7262
+#define CONFIG_LCD_TYPE_ILI9341
+//#define CONFIG_LCD_TYPE_ST7262
 
 #define DISPLAY_PIN_MISO      -1 // required if use CONFIG_LCD_TYPE_AUTO
 #define DISPLAY_PIN_MOSI       -1 //6
