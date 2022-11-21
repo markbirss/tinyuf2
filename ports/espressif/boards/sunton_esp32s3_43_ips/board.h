@@ -32,6 +32,9 @@
 // reset since that will instead run the 1st stage ROM bootloader
 #define PIN_BUTTON_UF2        0
 
+// Initial delay in milliseconds to detect user interaction to enter UF2
+#define UF2_DETECTION_DELAY_MS  1000
+
 // GPIO that implement 1-bit memory with RC components which hold the
 // pin value long enough for double reset detection.
 // #define PIN_DOUBLE_RESET_RC   38
