@@ -101,7 +101,7 @@
 #define USB_PID                  0x7004
 
 #define USB_MANUFACTURER         "Sunton"
-#define USB_PRODUCT              "ESP32S3 Box 2.5"
+#define USB_PRODUCT              "Sunton ESP32S3 4.3 IPS"
 
 #define UF2_PRODUCT_NAME         USB_MANUFACTURER " " USB_PRODUCT
 
